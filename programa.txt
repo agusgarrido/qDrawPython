@@ -1,0 +1,14 @@
+# PROGRAMA DE EJEMPLO
+
+ComentarioEnPantalla('Tablero Inicial')
+CrearTablero(3, 3)
+DibujarTablero()
+PintarRojo()
+MoverArriba()
+MoverDerecha()
+PintarVerde()
+MoverArriba()
+MoverDerecha()
+PintarNegro()
+ComentarioEnPantalla('Tablero Final')
+DibujarTablero()
